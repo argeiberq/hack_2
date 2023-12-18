@@ -1,0 +1,25 @@
+div{
+background: #93B5C9;
+height: 60px;
+margin-top: -10px;
+margin-left: -10px;
+margin-right: -10px;
+
+}
+section{
+    background: #AB2849;
+    height: 100px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+article{
+    background: #AB2849;
+    height: 50px;
+    width: 73%;
+    margin-top: 10px;
+    margin-left: -10px;
+}
+.as{
+    width: 97%;
+    margin-left: 6px;
+}
